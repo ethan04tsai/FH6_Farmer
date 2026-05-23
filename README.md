@@ -10,7 +10,7 @@
   參考以下教學的關卡和設定：https://www.youtube.com/watch?v=vczIlHkPgcM
 
 - **數字6**刷技能點數：
-  1分鐘10技術點數，可自動重新開始關卡無限掛機。  
+  1分鐘10技術點數，可自動重新開始關卡無限掛機，疑似有999點數上限。  
   關卡：創意中心 -> 藍圖賽事 -> 890169683  
   車輛：推薦 Subaru Impreza 22B-STI Version，升級車輛熟練度至全滿。  
   參考以下教學的關卡和設定：https://www.youtube.com/watch?v=UdaoiZC_Fbk
