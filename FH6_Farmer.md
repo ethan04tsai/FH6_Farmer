@@ -4,23 +4,23 @@
 
 ## 特色功能
 - **數字5**刷錢：
-  
-   油門鍵按住超過約10分鐘會被系統判定掛機拿不到技術點數，此掛機腳本每30秒循環間有0.1秒間隔，可規避系統偵測
-   關卡：線上 -> 勁敵 -> 公路賽 ->迎戰巨漢
-   參考以下教學的關卡和設定：https://www.youtube.com/watch?v=vczIlHkPgcM
+  油門鍵按住超過約10分鐘會被系統判定掛機拿不到技術點數，  
+  此掛機腳本每30秒循環間有0.1秒間隔，可規避系統偵測。  
+  關卡：線上 -> 勁敵 -> 公路賽 -> 迎戰巨漢  
+  參考以下教學的關卡和設定：https://www.youtube.com/watch?v=vczIlHkPgcM
 
 - **數字6**刷技能點數：
-   1分鐘10技術點數，可自動重新開始關卡無限掛機
-   關卡：創意中心 -> 藍圖賽事 -> 890169683
-   車輛：推薦Subaru Impreza 22B-STI Version，升級車輛熟練度至全滿
-   參考以下教學的關卡和設定：https://www.youtube.com/watch?v=UdaoiZC_Fbk
+  1分鐘10技術點數，可自動重新開始關卡無限掛機。  
+  關卡：創意中心 -> 藍圖賽事 -> 890169683  
+  車輛：推薦 Subaru Impreza 22B-STI Version，升級車輛熟練度至全滿。  
+  參考以下教學的關卡和設定：https://www.youtube.com/watch?v=UdaoiZC_Fbk
 
 - **數字7**自動抽獎、賣車：
-   重複點擊 Enter 鍵，可用於抽獎、二手拍賣場大量賣車
+  重複點擊 Enter 鍵，可用於抽獎、二手拍賣場大量賣車。
 
 - **抽獎效率最大化**：
-   使用 Lamborghini Revuelto 升級車輛熟練度獲得抽獎次數
-   可參考以下教學：https://www.youtube.com/watch?v=gan-UEzyEU0
+  使用 Lamborghini Revuelto 升級車輛熟練度獲得抽獎次數。  
+  可參考以下教學：https://www.youtube.com/watch?v=gan-UEzyEU0
 
 ## 使用說明
 1. 下載本專案的 `fh6_farmer.py` 並執行（或下載 Release 中的編譯版本）。
